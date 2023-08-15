@@ -1,0 +1,39 @@
+html {
+    background-color: blueviolet;
+}
+
+.centro{
+    text-align: center;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+#ola {
+    margin-left: 25%;
+    
+}
+
+#ola1 {
+    margin-left: 25%;
+}
+
+#ola2 {
+    margin-left: 25%;
+}
+
+#ola4 {
+    margin-left: 25%;
+}
+#ola5 {
+    margin-left: 25%;
+
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+}
